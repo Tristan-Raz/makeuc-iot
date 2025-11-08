@@ -14,7 +14,7 @@ This diagram shows how all the pieces of our simulation fit together.
 
 ```mermaid
 graph TD
-    subgraph Host PC [Host PC (Windows + Hyper-V)]
+    subgraph "Host PC" [Host PC]
         
         subgraph IoT_Network [IoT-Network (Internal vSwitch: 192.168.100.x)]
             
