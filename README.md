@@ -14,24 +14,24 @@ This diagram shows how all the pieces of our simulation fit together.
 
 ```mermaid
 graph TD
-    subgraph "Host PC" [Host PC]
+    subgraph "Host PC" ["Host PC"]
         
-        subgraph IoT_Network [IoT-Network (Internal vSwitch: 192.168.100.x)]
+        subgraph IoT_Network ["IoT-Network (Internal vSwitch: 192.168.100.x)"]
             
-            subgraph VM_Gateway [VM-Gateway (192.168.100.10)]
-                Gateway[gateway.py 🧠]
-                Log[log.txt 📄]
+            subgraph VM_Gateway ["VM-Gateway (192.168.100.10)"]
+                Gateway["gateway.py 🧠"]
+                Log["log.txt 📄"]
                 Gateway --> |Writes to| Log
             end
 
-            subgraph VM_Devices [VM-Devices (192.168.100.20)]
-                Simulator[device_simulator.py 🎭]
+            subgraph VM_Devices ["VM-Devices (192.168.100.20)"]
+                Simulator["device_simulator.py 🎭"]
             end
 
         end
 
-        subgraph Host_OS [Host OS]
-            Dashboard[dashboard.py 📊]
+        subgraph Host_OS ["Host OS"]
+            Dashboard["dashboard.py 📊"]
         end
 
         Simulator --> |HTTP Request| Gateway
