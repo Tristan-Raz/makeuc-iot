@@ -19,13 +19,13 @@ graph TD
         subgraph IoT_Network ["IoT-Network (Internal vSwitch)"]
             
             subgraph VM_Gateway ["VM-Gateway"]
-                Gateway["gateway.py 🧠\n192.168.100.10"]
+                Gateway["gateway.py 🧠 192.168.100.10"]
                 Log["log.txt 📄"]
                 Gateway --> |Writes to| Log
             end
 
             subgraph VM_Devices ["VM-Devices"]
-                Simulator["device_simulator.py 🎭\n192.168.100.20"]
+                Simulator["device_simulator.py 🎭 192.168.100.20"]
             end
 
         end
