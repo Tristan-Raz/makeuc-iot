@@ -7,7 +7,7 @@ st.title("Zero Trust IoT Dashboard")
 st.write("This is our real-time security monitor.")
 st.write("Current time:", datetime.now())
 
-# === Load Logs ===
+# Load Logs
 try:
     df = pd.read_csv("pract.log.txt", sep="|", names=["timestamp", "device", "action", "status", "message"])
     df["timestamp"] = pd.to_datetime(df["timestamp"], errors="coerce")
@@ -15,13 +15,13 @@ except FileNotFoundError:
     st.warning("No log file found. Waiting for gateway connection...")
     df = pd.DataFrame(columns=["timestamp", "device", "action", "status", "message"])
 
-# === Summary Metrics ===
+# Summary
 col1, col2, col3 = st.columns(3)
 col1.metric(" Allowed Requests", df[df["status"] == "ALLOWED"].shape[0])
 col2.metric(" Denied Attempts", df[df["status"] == "DENIED"].shape[0])
 col3.metric("️ Suspicious Events", df[df["status"] == "SUSPICIOUS"].shape[0])
 
-# === Color-Coded Table ===
+# Color codes
 def highlight_row(row):
     color = ""
     if row["status"] == "DENIED":
@@ -29,13 +29,13 @@ def highlight_row(row):
     elif row["status"] == "SUSPICIOUS":
         color = "background-color: #ffcc00"
     elif row["status"] == "ALLOWED":
-        color = "background-color: #67ff67"
+        color = "background-color: #40a040"
     return [color] * len(row)
 
 st.subheader(" Live Security Logs")
 st.dataframe(df.style.apply(highlight_row, axis=1))
 
-# === Big Red Buttons (Stretch Goal) ===
+# Big red button
 st.subheader(" Simulate Attacks")
 colA, colB = st.columns(2)
 
