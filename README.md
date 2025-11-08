@@ -12,20 +12,19 @@ This project is a software-only simulation of a Zero Trust framework for IoT net
 
 This diagram shows how all the pieces of our simulation fit together.
 
-```mermaid
 graph TD
-    subgraph "Host PC" ["Host PC"]
+    subgraph "Host PC"
         
-        subgraph IoT_Network ["IoT-Network (Internal vSwitch: 192.168.100.x)"]
+        subgraph IoT_Network ["IoT-Network (Internal vSwitch)"]
             
-            subgraph VM_Gateway ["VM-Gateway (192.168.100.10)"]
-                Gateway["gateway.py 🧠"]
+            subgraph VM_Gateway ["VM-Gateway"]
+                Gateway["gateway.py 🧠\n192.168.100.10"]
                 Log["log.txt 📄"]
                 Gateway --> |Writes to| Log
             end
 
-            subgraph VM_Devices ["VM-Devices (192.168.100.20)"]
-                Simulator["device_simulator.py 🎭"]
+            subgraph VM_Devices ["VM-Devices"]
+                Simulator["device_simulator.py 🎭\n192.168.100.20"]
             end
 
         end
