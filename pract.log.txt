@@ -1,0 +1,7 @@
+2025-11-08 14:00:01|Gateway-Hospital-Network|Heartbeat Check|ALLOWED|Connection stable
+2025-11-08 14:01:12|Device-Heart-Monitor|Sending Vitals|ALLOWED|Patient 000
+2025-11-08 14:02:23|Device-Patient-TV|Streaming Media|ALLOWED|Room 305
+2025-11-08 14:02:45|Device-Attacker-Laptop|Scaning Network|DENIED|Unauthorized access attempt blocked
+2025-11-08 14:04:10|Device-Attacker-Laptop|Sending Malicious Payload|DENIED|Blocked by Zero Trust Policy
+2025-11-08 14:04:50|Device-Heart-Monitor|Send Vitals|ALLOWED|Patient 001
+
