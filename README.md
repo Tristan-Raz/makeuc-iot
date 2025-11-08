@@ -12,6 +12,7 @@ This project is a software-only simulation of a Zero Trust framework for IoT net
 
 This diagram shows how all the pieces of our simulation fit together.
 
+```mermaid
 graph TD
     subgraph "Host PC"
         
