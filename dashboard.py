@@ -4,6 +4,9 @@ from datetime import datetime
 import subprocess
 import sys
 
+# Refresh every 5 seconds
+st.markdown('<meta http-equiv="refresh" content="5">', unsafe_allow_html=True)
+
 # Configs
 GATEWAY_URL = "http://127.0.0.1:8000/vitals-db"  # domain URL
 LOG_FILE = "log.txt"
