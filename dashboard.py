@@ -10,7 +10,7 @@ import os  # Import os to check for file existence
 GATEWAY_URL = "http://127.0.0.1:8000/vitals-db"
 # FIX: Point to the 'log.txt' file in the root, where gateway.py writes to it
 LOG_PATH = Path("log.txt")
-REFRESH_MS = 2000  # milliseconds (2 seconds)
+REFRESH_MS = 10000  # milliseconds (2 seconds)
 
 # ---- Auto-refresh ----
 # This is a common way to handle auto-refresh in Streamlit
