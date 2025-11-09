@@ -4,9 +4,9 @@ import time
 
 # --- Auth0 M2M Client Configuration for LOW TRUST Device (Patient TV) ---
 # IMPORTANT: Use DIFFERENT credentials for a different application created in Auth0.
-AUTH0_DOMAIN = "YOUR_AUTH0_DOMAIN.us.auth0.com"  # Should be the same as the high-trust client
-LOW_TRUST_CLIENT_ID = "YOUR_PATIENT_TV_CLIENT_ID"  # <-- New ID for the Low Trust App (Must be filled in)
-LOW_TRUST_CLIENT_SECRET = "YOUR_PATIENT_TV_CLIENT_SECRET"  # <-- New Secret for the Low Trust App (Must be filled in)
+AUTH0_DOMAIN = "dev-4a45sa8f3kkwulii.us.auth0.com"
+LOW_TRUST_CLIENT_ID = "WqioD4kHeWyD0liLq0Cprgw57cb3sgws"
+LOW_TRUST_CLIENT_SECRET = "HP1TvzgevaWfj7YgBCJ5M9HEuEqm54RKckXbICYiNkJDplhYjR3MwW60CA2Q-lbn"
 AUDIENCE = "https://uc-iot.tech/api"
 
 

@@ -6,9 +6,9 @@ import time
 
 # --- Auth0 M2M Client Configuration for HIGH TRUST Device (Heart Monitor) ---
 # IMPORTANT: Use the credentials for the application you authorized with 'access:vitals_critical'
-AUTH0_DOMAIN = "YOUR_AUTH0_DOMAIN.us.auth0.com"  # Should be the same for all clients
-HIGH_TRUST_CLIENT_ID = "YOUR_HEART_MONITOR_CLIENT_ID"
-HIGH_TRUST_CLIENT_SECRET = "YOUR_HEART_MONITOR_CLIENT_SECRET"
+AUTH0_DOMAIN = "dev-4a45sa8f3kkwulii.us.auth0.com"
+HIGH_TRUST_CLIENT_ID = "R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4"
+HIGH_TRUST_CLIENT_SECRET = "_dAvbokb5zzPjur3RavkIYbxHeKj-FLG1m4OqhCOspnx-xjqUtItmLNRHtq53NIk"
 AUDIENCE = "https://uc-iot.tech/api"
 
 
