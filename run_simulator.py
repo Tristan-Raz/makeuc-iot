@@ -7,13 +7,14 @@ import os
 # --- CONSOLIDATED CONFIGURATION ---
 # IMPORTANT: These placeholders MUST match the values you put in token_requester.py
 # and token_requester_low_trust.py
-AUTH0_DOMAIN = "YOUR_AUTH0_DOMAIN.us.auth0.com"
-HIGH_TRUST_CLIENT_ID = "YOUR_HEART_MONITOR_CLIENT_ID"
-HIGH_TRUST_CLIENT_SECRET = "YOUR_HEART_MONITOR_CLIENT_SECRET"
-LOW_TRUST_CLIENT_ID = "YOUR_PATIENT_TV_CLIENT_ID"
-LOW_TRUST_CLIENT_SECRET = "YOUR_PATIENT_TV_CLIENT_SECRET"
+AUTH0_DOMAIN = "dev-4a45sa8f3kkwulii.us.auth0.com"
+HIGH_TRUST_CLIENT_ID = "R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4"
+HIGH_TRUST_CLIENT_SECRET = "_dAvbokb5zzPjur3RavkIYbxHeKj-FLG1m4OqhCOspnx-xjqUtItmLNRHtq53NIk"
+LOW_TRUST_CLIENT_ID = "WqioD4kHeWyD0liLq0Cprgw57cb3sgws"
+LOW_TRUST_CLIENT_SECRET = "HP1TvzgevaWfj7YgBCJ5M9HEuEqm54RKckXbICYiNkJDplhYjR3MwW60CA2Q-lbn"
 AUDIENCE = "https://uc-iot.tech/api"
 API_URL_BASE = "http://127.0.0.1:8000"
+
 
 
 # --- Token Generation Function ---
