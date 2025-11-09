@@ -14,7 +14,7 @@ REFRESH_MS = 2000  # milliseconds (2 seconds)
 
 # ---- Auto-refresh ----
 # This is a common way to handle auto-refresh in Streamlit
-st.markdown(f'<meta http-equiv="refresh" content="{REFRESH_MS / 1000}">', unsafe_allow_html=True)
+st.markdown(f'<meta http-equiv="refresh" content="{REFRESH_MS / 2000}">', unsafe_allow_html=True)
 
 # ---- Static UI ----
 st.set_page_config(page_title="Zero Trust IoT Dashboard", page_icon="🛡️", layout="wide")
