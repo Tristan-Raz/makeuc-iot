@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+requests
+python-jose[cryptography]
+pyjwt
