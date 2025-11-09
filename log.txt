@@ -17,3 +17,35 @@
 2025-11-09 06:23:30,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,The specified alg value is not allowed
 2025-11-09 06:23:30,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,The specified alg value is not allowed
 2025-11-09 06:23:30,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte
+2025-11-09 09:09:20,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,The specified alg value is not allowed
+2025-11-09 09:09:20,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,The specified alg value is not allowed
+2025-11-09 09:09:20,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,The specified alg value is not allowed
+2025-11-09 09:09:20,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte
+2025-11-09 09:17:46,R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:17:46,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:17:46,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/guest-data,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:17:47,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:20:59,R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:20:59,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:20:59,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/guest-data,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:20:59,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:21:18,R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:21:18,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:21:18,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/guest-data,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:21:18,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:24:55,R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:24:55,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:24:55,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/guest-data,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:24:55,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:28:29,R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:28:30,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:28:30,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,[],/guest-data,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:28:30,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:30:57,R07D0IFkbljDwxYNSIYvEdxA5yB6LuA4,['read:vitals', 'write:vitals'],/vitals-db,GRANTED,Access permitted by policy
+2025-11-09 09:30:58,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,['read:media', 'read:guest_data'],/vitals-db,DENIED_POLICY,Permissions not authorized
+2025-11-09 09:30:58,WqioD4kHeWyD0liLq0Cprgw57cb3sgws,['read:media', 'read:guest_data'],/guest-data,GRANTED,Low-trust access permitted
+2025-11-09 09:30:58,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:37:45,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:37:45,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:38:06,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
+2025-11-09 09:38:47,Unknown,Unknown,Unknown,DENIED_SPOOFING,Error decoding token headers.
