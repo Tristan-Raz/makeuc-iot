@@ -39,12 +39,12 @@ st.subheader("Summary Metrics")
 
 # Static column titles
 col1, col2, col3 = st.columns(3)
-col1.write("**Allowed Requests**")
+col1.write("**GRANTED**")
 col2.write("**Denied Attempts**")
 col3.write("**Suspicious Events**")
 
 # Dynamic placeholders for numbers
-allowed_placeholder = col1.empty()
+granted_placeholder = col1.empty()
 denied_placeholder = col2.empty()
 suspicious_placeholder = col3.empty()
 
@@ -73,9 +73,9 @@ def highlight_row(row):
     status = str(row.get("status", ""))
     if status == "DENIED_SPOOFING":
         color = "background-color: #ff4d4d"
-    elif status == "SUSPICIOUS":
+    elif status == "DENIED_POLICY":  # Highlight denied policy as suspicious
         color = "background-color: #ffcc00"
-    elif status == "ALLOWED":
+    elif status == "GRANTED":
         color = "background-color: #40a040"
     return [color] * len(row)
 
@@ -83,9 +83,9 @@ def highlight_row(row):
 df = load_logs(LOG_PATH)
 
 # Update metrics
-allowed_placeholder.metric("", df[df["status"] == "ALLOWED"].shape[0])
+granted_placeholder.metric("", df[df["status"] == "GRANTED"].shape[0])
 denied_placeholder.metric("", df[df["status"] == "DENIED_SPOOFING"].shape[0])
-suspicious_placeholder.metric("", df[df["status"] == "SUSPICIOUS"].shape[0])
+suspicious_placeholder.metric("", df[df["status"] == "DENIED_POLICY"].shape[0])
 
 # Update log table
 if df.empty:
