@@ -8,14 +8,14 @@ from pathlib import Path
 # ---- Configs ----
 GATEWAY_URL = "http://127.0.0.1:8000/vitals-db"
 LOG_PATH = Path("hospital_devices/log.txt")
-REFRESH_MS = 10000  # milliseconds
+REFRESH_MS = 20000  # milliseconds
 
 # ---- Auto-refresh ----
 autorefresh = getattr(st, "autorefresh", None) or getattr(st, "experimental_autorefresh", None)
 if callable(autorefresh):
     autorefresh(interval=REFRESH_MS, key="log_refresh")
 else:
-    st.markdown(f'<meta http-equiv="refresh" content="{REFRESH_MS/1000}">', unsafe_allow_html=True)
+    st.markdown(f'<meta http-equiv="refresh" content="{REFRESH_MS/2000}">', unsafe_allow_html=True)
 
 # ---- Static UI ----
 st.title("Zero Trust IoT Dashboard")
