@@ -37,3 +37,280 @@
 2025-11-08 20:01:35,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
 2025-11-08 20:01:37,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
 2025-11-08 20:01:39,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:35,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:37,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:39,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:41,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:43,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:54,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:56,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:10:58,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:17:45,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:17:47,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:17:49,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Not enough segments
+2025-11-08 20:18:42,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:18:44,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:18:46,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:18:48,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:18:50,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:18:52,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:18:54,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:18:56,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:24,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:26,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:28,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:30,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:32,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:34,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:36,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:27:41,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:42,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:43,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:44,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:45,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:46,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:47,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:48,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:50,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:51,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:52,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:53,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:54,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:55,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:56,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:57,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:58,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:27:59,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:00,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:01,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:02,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:03,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:04,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:05,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:06,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:07,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:08,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:09,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:10,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:11,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:12,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:13,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:28:14,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:29:59,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:01,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:03,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:05,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:08,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:10,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:12,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:14,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:16,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:18,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:20,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:22,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:24,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:26,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:28,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:30,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:32,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:34,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:36,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 20:30:51,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:30:52,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:30:53,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:30:54,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:30:55,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:30:56,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:30:58,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:30:59,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:00,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:01,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:02,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:03,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:04,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:05,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:06,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:07,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:08,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:09,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:10,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:11,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:12,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:31:13,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:56:25,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:27,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:29,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:31,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:33,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:35,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:37,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:39,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:41,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:43,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:56:45,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 20:57:20,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:21,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:22,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:23,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:24,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:25,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:26,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:27,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:28,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:29,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:30,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:31,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:32,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:33,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:34,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:35,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 20:57:36,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:45,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:46,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:47,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:48,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:49,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:50,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:51,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:52,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:53,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:54,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:55,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:56,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:57,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:03:58,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:11,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:12,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:13,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:14,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:15,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:16,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:17,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 21:04:32,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 21:04:34,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 21:04:36,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 21:04:38,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 21:04:40,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 21:04:42,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 21:05:51,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 21:05:55,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 21:05:57,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 21:05:59,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 21:06:01,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 21:06:03,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 21:06:05,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 21:06:07,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 22:27:48,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:49,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:50,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:51,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:52,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:53,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:54,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:55,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:56,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:57,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:27:58,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:00,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:01,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:02,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:03,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:04,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:05,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:06,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:07,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:08,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:09,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:10,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:11,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:12,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:13,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:14,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 22:28:15,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:25:06,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:08,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:10,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:12,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:14,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:16,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:18,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:20,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:22,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:24,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:26,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:28,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:30,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:32,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:25:34,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-08 23:32:12,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:14,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:15,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:16,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:17,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:18,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:19,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:20,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:21,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:22,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:23,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:24,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:25,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:26,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:27,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:28,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:29,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:30,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:31,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:32,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:33,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:34,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:35,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:36,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:37,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:38,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:39,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:40,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:41,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:42,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:43,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:44,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:32:45,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:40:52,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:40:54,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:40:56,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:40:58,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:00,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:02,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:04,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:06,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:08,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:10,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:12,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:14,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:16,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:41:18,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:18,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:20,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:22,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:24,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:26,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:28,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:30,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:32,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:34,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:36,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:38,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:40,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:42,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:44,TV-789,media_guest,/vitals-db,DENIED_POLICY,Role not authorized
+2025-11-08 23:48:45,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:48:46,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:48:47,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:48:48,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:48:49,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:48:50,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:48:51,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:48:52,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Invalid header string: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+2025-11-08 23:50:12,HM-123,vitals_critical,/vitals-db,GRANTED,Access permitted by policy
+2025-11-09 01:24:01,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,The specified alg value is not allowed
+2025-11-09 01:27:23,Unknown,Unknown,/vitals-db,DENIED_SPOOFING,Signature verification failed
