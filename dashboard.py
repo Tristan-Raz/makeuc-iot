@@ -7,7 +7,7 @@ from pathlib import Path
 
 # ---- Configs ----
 GATEWAY_URL = "http://127.0.0.1:8000/vitals-db"
-LOG_PATH = Path("hospital_devices/log.txt")
+LOG_PATH = Path("log.txt")
 REFRESH_MS = 20000  # milliseconds
 
 # ---- Auto-refresh ----
