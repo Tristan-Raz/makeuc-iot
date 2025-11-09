@@ -10,14 +10,14 @@ import os  # Import os to check for file existence
 GATEWAY_URL = "http://127.0.0.1:8000/vitals-db"
 # FIX: Point to the 'log.txt' file in the root, where gateway.py writes to it
 LOG_PATH = Path("log.txt")
-REFRESH_MS = 2000  # milliseconds (2 seconds)
+REFRESH_MS = 10000  # milliseconds (2 seconds)
 
 # ---- Auto-refresh ----
 # This is a common way to handle auto-refresh in Streamlit
 st.markdown(f'<meta http-equiv="refresh" content="{REFRESH_MS / 1000}">', unsafe_allow_html=True)
 
 # ---- Static UI ----
-st.set_page_config(page_title="Zero Trust IoT Dashboard", page_icon="🛡️", layout="wide")
+st.set_page_config(page_title="Zero Trust IoT Dashboard", layout="wide")
 st.title("Zero Trust IoT Dashboard")
 st.write("This is our real-time security monitor.")
 
@@ -32,7 +32,7 @@ colA, _ = st.columns(2)
 # Let's assume it's in the same directory.
 attack_script_path = "attack_simulator.py"
 
-if colA.button("BIG RED BUTTON (Spoofing Attack)"):
+if colA.button("Sim Spoofing Attack)"):
     if os.path.exists(attack_script_path):
         # We pass GATEWAY_URL as an argument to the script
         subprocess.Popen([sys.executable, attack_script_path, GATEWAY_URL])
